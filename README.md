@@ -5,7 +5,7 @@ This is a shopping cart where you can add items to you cart and the stock of the
 You can add items to your shopping cart, update the shoping cart and the stock of the item in the "warehouse" reflects the changes. In this application I used a Strapi database to get items to restock in teh warehouse. I also used Postman to test the APIs for my databse.
 
 ## How to Run
-Clone the Shopping_Cart repo to your local computer. Next you will need to use npx http-server to spin up a local server. Finally, navigae to that localhost port specified.
+Clone the Shopping_Cart repo to your local computer. Next you will need to use npx http-server to spin up a local server. Finally, navigae to that localhost port specified. Please note that the strapi database restock function will not work on your local computer.
 
 ## License
 MIT License
